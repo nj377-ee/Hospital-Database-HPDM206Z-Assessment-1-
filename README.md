@@ -1,4 +1,4 @@
-# Git hub coding Task and Small report-HPDM206Z-Assessment-1-
+# GitHub Coding Task and Small Report-HPDM206Z-Assessment-1-
 
 ## Overview
 A MySQL database for hospitals, doctors,
