@@ -1,0 +1,41 @@
+hospital_id,name,address,size,type,accreditation_status
+1,Acevedo-Lee Hospital,"2696 Robinson Flat Lake Nicholas, ID 92919",169,Community,Not Accredited
+2,Kramer LLC Hospital,"86649 Michael Groves Jonesmouth, VA 80169",72,Specialty,Accredited
+3,Le-Adkins Hospital,"59769 Williams Meadows Apt. 326 South Lynnmouth, TX 78053",61,Teaching,Accredited
+4,Warren-Vasquez Hospital,"70076 Johnathan Station Suite 610 North Kathryn, RI 46802",169,Community,Not Accredited
+5,Gonzalez PLC Hospital,"2315 Mark Road Apt. 063 Debraview, MA 58537",187,Research,Accredited
+6,Stewart Inc Hospital,"73353 Michael Street Perezside, WI 28232",253,General,Not Accredited
+7,Lewis-Stewart Hospital,"PSC 4616, Box 9510 APO AE 00542",277,Community,Accredited
+8,Simmons Inc Hospital,"Unit 6671 Box 3994 DPO AE 67796",60,General,Accredited
+9,"Pope, Clark and Serrano Hospital","2297 Rodney Plains Lake Rickyview, KS 26881",326,Research,Not Accredited
+10,Levy and Sons Hospital,"1854 Mccullough Circle Suite 703 Lake Angelatown, UT 16146",323,Community,Accredited
+11,"Peters, Anderson and Baker Hospital","7391 Kristin Mountains Apt. 918 South Phillipbury, MO 02536",494,Teaching,Not Accredited
+12,Anderson Inc Hospital,"27254 Garcia Manor Riveraville, WY 42333",451,Research,Accredited
+13,Elliott LLC Hospital,"57108 Tran Valley Apt. 893 North Thomas, NE 36876",63,General,Accredited
+14,Hughes Ltd Hospital,"3885 Micheal Track Christopherberg, WA 75238",86,Teaching,Not Accredited
+15,Howard-Cooper Hospital,"704 Mcdaniel Port Apt. 368 Port Briannachester, AZ 29518",157,Specialty,Not Accredited
+16,Lopez-Campbell Hospital,"7158 Glover Villages Apt. 583 East Brooke, DC 83209",139,Teaching,Accredited
+17,"Sullivan, Hayes and Arellano Hospital","36505 Buck Creek Apt. 250 Lake Dawnport, MS 64342",451,Research,Not Accredited
+18,"Francis, Wood and Wilson Hospital","204 Brittany Plains New Jerrytown, NC 73238",457,Teaching,Not Accredited
+19,"Baker, Figueroa and Carlson Hospital","875 Penny Terrace Suite 010 Port Tricia, AL 35057",354,Research,Accredited
+20,Garcia-Hunter Hospital,"11032 Roger Square Suite 963 North Laura, WI 65476",52,Specialty,Accredited
+21,Owens Ltd Hospital,"4176 Travis Circles Victormouth, DE 39528",399,General,Not Accredited
+22,Walker Inc Hospital,"914 Thomas Fall West Peter, MI 47168",359,General,Accredited
+23,"Hatfield, Mccall and Carr Hospital","12750 Patterson Mountains Davidstad, DC 04882",119,Teaching,Accredited
+24,King-Dillon Hospital,"99321 Gary Valleys Suite 486 Nicholasview, MI 17441",334,Community,Not Accredited
+25,"Dominguez, Martin and Harris Hospital","622 Knapp Tunnel Apt. 286 South Paulberg, AZ 99109",232,Teaching,Not Accredited
+26,Ingram Group Hospital,"1699 Nancy Extension Watersbury, AR 96984",377,Community,Accredited
+27,"Krause, Gonzalez and Morgan Hospital","2703 Alvarado Bridge Brendahaven, NM 79989",112,Teaching,Accredited
+28,Mitchell and Sons Hospital,"USCGC Morgan FPO AA 91133",464,Specialty,Not Accredited
+29,Williamson-Middleton Hospital,"USNV Clark FPO AP 37452",97,Specialty,Accredited
+30,"Riley, Porter and Woods Hospital","109 Leon Pass Suite 772 Amyview, IN 95368",449,Specialty,Not Accredited
+31,"Walsh, Bailey and Robinson Hospital","2622 Reed Pines Apt. 584 East Maryberg, NM 20641",163,Research,Accredited
+32,"Munoz, Bass and Mann Hospital","2498 Daniel Drives Flynnville, TX 53678",394,Teaching,Accredited
+33,Edwards-Roberson Hospital,"57866 Michelle Lodge Suite 727 South Robinburgh, NH 17963",406,Teaching,Not Accredited
+34,Miller and Sons Hospital,"25085 Jason Ranch Suite 525 New Amandabury, NH 33782",256,Research,Accredited
+35,Martinez Group Hospital,"3546 Sierra Mews Apt. 087 North Sarah, DE 98610",180,General,Accredited
+36,Parrish-Ramirez Hospital,"408 Johnson Extensions New Lindsey, DC 89090",407,Specialty,Accredited
+37,"Bradshaw, Munoz and Lam Hospital","9051 Rodriguez Inlet Suite 509 East Markside, NE 83439",190,General,Not Accredited
+38,Evans-Jordan Hospital,"75830 Nichols Radial Suite 392 North Danielleburgh, MO 28500",295,Specialty,Accredited
+39,Tucker-French Hospital,"05382 Gillespie Mill Suite 745 West Patrick, MN 53544",289,Research,Accredited
+40,"Carpenter, Nichols and Lara Hospital","989 Bentley Wells North Debbie, TX 43548",284,General,Not Accredited
