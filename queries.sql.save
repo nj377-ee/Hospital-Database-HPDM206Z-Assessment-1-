@@ -1,12 +1,9 @@
 
--- 1. List all doctors at a particular hospital
-SELECT d.person_id, d.name AS doctor_name, d.role, h.name AS hospital_name
+-- 1. Doctors by hospital
+SELECT d.*
 FROM doctors d
 JOIN hospitals h ON d.hospital_id = h.hospital_id
-WHERE h.hospital_id = 11
-ORDER BY d.name;
-
-
+ORDER BY h.name;
 
 -- 2. Prescriptions for one patient
 SELECT pr.*
@@ -27,7 +24,7 @@ ORDER BY d.name, pr.prescription_date DESC;
 
 -- 4. Add a new patient registered with a doctor
 INSERT INTO patients (person_id, name, date_of_birth, address, role, doctor_id)
-VALUES (701, 'Nirosha Jay', '1995-05-14', '12 High Street, Wolverhampton', 'patient', 3);
+VALUES (301, 'Nirosha Jay', '1995-05-14', '12 High Street, Wolverhampton', 'patient', 3);
 
 -- 5. Doctor with the most prescriptions
 SELECT d.person_id, d.name, COUNT(*) AS total_prescriptions
@@ -42,4 +39,4 @@ SELECT d.*, h.name AS hospital_name
 FROM doctors d
 JOIN hospitals h ON d.hospital_id = h.hospital_id
 WHERE h.size = (SELECT MAX(size) FROM hospitals);
-
+EOF
