@@ -22,10 +22,10 @@ It also include data base planning note which include ERD and pseudocode,  SQL u
 
 ## Database design
  The database consists of four tables:
--**hospitals**- one raw per hospital
--**doctors** - one raw per docotr, linked to the hospital they work at with hospital ID
--**patients** - one raw per patients, linked to the one doctor they are registered
--**prescriptions**- one raw per prescription, linked to both patients and doctors
+- **hospitals**- one raw per hospital
+- **doctors** - one raw per docotr, linked to the hospital they work at with hospital ID
+- **patients** - one raw per patients, linked to the one doctor they are registered
+- **prescriptions**- one raw per prescription, linked to both patients and doctors
 
 ## Queries
 
