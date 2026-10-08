@@ -22,6 +22,6 @@ patients and prescriptions, built from four provided CSV files.
 
 
 ## How to use
-mysql -u your_user -p -e "CREATE DATABASE hospital_db;"
-mysql -u your_user -p hospital_db < hospital_db.sql
+- mysql -u your_user -p -e "CREATE DATABASE hospital_db;"
+- mysql -u your_user -p hospital_db < hospital_db.sql
 
