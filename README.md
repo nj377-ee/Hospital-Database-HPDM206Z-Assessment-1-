@@ -1,8 +1,11 @@
 # GitHub Coding Task and Small Report-HPDM206Z-Assessment-1-
 
 ## Overview
-A MySQL database for hospitals, doctors,
-patients and prescriptions, built from four provided CSV files.
+This repository contains a MySQL database modelling hospitals, doctors,
+patients and prescriptions, built from four provided CSV files. It
+includes the database design (ERD and planning notes), the SQL used to
+create and populate the tables, a set of named queries demonstrating the
+database's functionality, and an exported copy of the final database.
 
 
 ## Repository contents
