@@ -29,6 +29,13 @@ It also include data base planning note which include ERD and pseudocode,  SQL u
 
 ## Queries
 
+all the queries used in this database re present in queries.sql file
+following are the what the query do:
+- Print a list of all doctors based at a particular hospital
+- print a list of all prescriptions that a particuler doctor has priscribed
+- Add A new patient call Nirosha Jay in to the database, including being registerd 
+1.
+
 
 ## How to use
 - mysql -u your_user -p -e "CREATE DATABASE hospital_db;"
