@@ -34,10 +34,16 @@ following are the what the query do:
 - Print a list of all doctors based at a particular hospital
 - print a list of all prescriptions that a particuler doctor has priscribed
 - Add A new patient call Nirosha Jay in to the database, including being registerd 
-1.
+-print the doctors with most priscriptions
+-print all doctors in the hospitals with biggest bed numbers
 
 
 ## How to use
 - mysql -u your_user -p -e "CREATE DATABASE hospital_db;"
 - mysql -u your_user -p hospital_db < hospital_db.sql
+
+- Then
+- use hospital data base
+- source quaries.sql
+   
 
