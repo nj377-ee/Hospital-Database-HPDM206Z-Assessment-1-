@@ -1,4 +1,4 @@
-# GitHub Coding Task and Small Report-HPDM206Z-Assessment-1-
+# Hospital-Database-HPDM206Z-Assessment-1-
 
 ## Overview
 This repository contain Hospital data base created from 4 different  CSV files provided, hospital, doctors, prescriptions, patients.
